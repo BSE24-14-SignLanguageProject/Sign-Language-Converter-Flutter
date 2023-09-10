@@ -1,2 +1,17 @@
 # Sign-Language-Converter
 The Sign Language to Speech/Text Converter is a system that aims to aid deaf-mute people to communicate with other people more effectively, by translating sign language into text or speech
+
+# Adding to the codebase
+1. Open VSCODE or any text editor application of your choice
+
+2. Clone repository: 
+git clone https://github.com/drfidel/Group14-FlutterApp.git
+
+3. Create your Branch and checkout to your branch:
+eg. git checkout -b fidelsBranchListsExcercise
+
+4. Add and test out your feature
+
+5. Run/debug the application
+
+6. Save your changes, commit and push your branch
