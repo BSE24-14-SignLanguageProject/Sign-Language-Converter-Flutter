@@ -8,7 +8,7 @@ The Sign Language to Speech/Text Converter is a system that aims to aid deaf-mut
 git clone https://github.com/Tre7o/Sign-Language-Converter-Flutter.git
 
 3. Create your Branch and checkout to your branch:
-eg. git checkout -b fidelsBranchListsExcercise
+eg. git checkout -b my-branch
 
 4. Add and test out your feature
 
